@@ -91,7 +91,7 @@ Upon successful execution, I retrieved the flag: **THM{AUT0M@T1N6_S3CUR1T¥}**.
 
 ---
 
-### **Key Takeaways from the Room**
+### **Key Takeaways**
 
 1. **Enhanced Incident Response**:
    - SOAR drastically reduces manual intervention by automating workflows like phishing analysis and CVE patching.
